@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Ver documento" skipped="0" tests="1" time="23.62" timestamp="2022-05-27 09:18:00"><testcase name="Ver documento"><failure message="Expected verificar&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected verificar
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>Expected verificar
+Expected: is &lt;true&gt;
+     but: was &lt;false&gt;&#13;
+co.com.test.stepdefinitions.AeronauticaSteps.elVeElDocumentoEstadoDeSituacionFinancieraADeAbrilDel(AeronauticaSteps.java:40)&#13;
+✽.el ve el documento Estado de Situacion Financiera a 31 de Marzo de 2022(src/test/resources/features/aeronautica_civil.feature:7)&#13;
+</system-err></testcase></testsuite>
